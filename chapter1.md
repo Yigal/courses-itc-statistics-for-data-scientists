@@ -51,3 +51,34 @@ https://tinyurl.com/weightdata
 ```{python}
 # Check https://instructor-support.datacamp.com/en/articles/2375523-course-multiple-choice-with-console-exercises on how to write feedback messages for this exercise.
 ```
+
+---
+
+## Find the analitical fit
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 483dc017d0
+xp: 50
+```
+
+Use the same data as before
+Use the following formula to calculate the linear fit
+![https://assets.datacamp.com/production/repositories/5585/datasets/b71d3b3278f46116384c60a0ad53d84d431bc783/1_O2xXpYS7A3VlLXqT6SNMLg.png]()
+- What is the value of b1   
+
+`@hint`
+
+
+`@possible_answers`
+- [7.17]
+- 7.64
+- 8.9
+- 9.99
+
+`@feedback`
+<!-- Examples of good feedback messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.  -->
+- Perfect!
+- Wrong answer
+- Wrong answer
+- Wrong answer
