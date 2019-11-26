@@ -3,7 +3,7 @@ title: 'Linear Regration'
 description: 'Linear Regration'
 ---
 
-## Insert exercise title here
+## Linear regression
 
 ```yaml
 type: VideoExercise
