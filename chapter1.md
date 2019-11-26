@@ -1,6 +1,8 @@
 ---
 title: 'Linear Regration'
 description: 'Linear Regration'
+attachments:
+    slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_23229/slides/chapter1.pdf'
 ---
 
 ## Linear regression
