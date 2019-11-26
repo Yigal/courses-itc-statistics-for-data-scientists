@@ -82,3 +82,36 @@ Use the following formula to calculate the linear fit
 - Wrong answer
 - Wrong answer
 - Wrong answer
+
+---
+
+## Calculate RMSE
+
+```yaml
+type: PureMultipleChoiceExercise
+key: 66c72d4f7f
+xp: 50
+```
+
+Use the following formula to calculate the Root Mean squared Error RMSE
+![https://assets.datacamp.com/production/repositories/5585/datasets/6d1423f9241cd62e1ed6aa177405c74d3c99d572/1_SGBsn7WytmYYbuTgDatIpw.gif]()
+
+`@hint`
+<!-- Examples of good hints: https://instructor-support.datacamp.com/en/articles/2379164-hints-best-practices. -->
+- This is an example hint.
+- This is an example hint.
+
+`@possible_answers`
+- 845.7
+- 836.5
+- [864.7]
+- 832.3
+- 824.8
+
+`@feedback`
+<!-- Examples of good feedback messages: https://instructor-support.datacamp.com/en/articles/2299773-exercise-success-messages.  -->
+- Wrong answer
+- Wrong answer
+- Perfect!
+- Wrong answer
+- Wrong answer
