@@ -65,7 +65,7 @@ xp: 50
 Use the same data as before
 Use the following formula to calculate the linear fit
 ![https://assets.datacamp.com/production/repositories/5585/datasets/b71d3b3278f46116384c60a0ad53d84d431bc783/1_O2xXpYS7A3VlLXqT6SNMLg.png]()
-- What is the value of b1   
+- What is the value of b1
 
 `@hint`
 
