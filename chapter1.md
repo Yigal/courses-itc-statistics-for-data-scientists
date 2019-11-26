@@ -1,6 +1,6 @@
 ---
-title: 'Linear Regration'
-description: 'Linear Regration'
+title: 'Linear Reegression'
+description: 'Linear Reegression'
 attachments:
     slides_link: 'https://s3.amazonaws.com/assets.datacamp.com/production/course_23229/slides/chapter1.pdf'
 ---
